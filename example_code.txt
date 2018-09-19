@@ -1,0 +1,4 @@
+echo "this is sample code  tests amms'[a''s"
+testing the data create in side the file
+exit
+new file create ted
